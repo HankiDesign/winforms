@@ -95,11 +95,11 @@ dotnet build
 
 Now, whenever you need to use the Designer on one of the Core Form or UserControl files, simply open the linked files in the Classic Framework project with the Classic Windows Forms Designer.
 
-[comment]: <> (URI Links)
+<!-- URI Links -->
 
 [file-nesting-extension]: https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileNesting
 
-[comment]: <> (Images)
+<!-- Images -->
 
 [add-projects-to-sln]: images/add-project-to-sln.png
 [add-project-dialog]: images/add-project-dialog.png
